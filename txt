@@ -1,0 +1,7 @@
+#Comando para GitHub
+
+git clone https://github.com/skavngr/rapidscan
+
+read python 
+python3
+python rapidscan.py (ip)
